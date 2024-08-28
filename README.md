@@ -1,4 +1,4 @@
-# Project Name
+# Dashboard For Adding Widgets
 
 ## Steps to Run the Application Locally
 
