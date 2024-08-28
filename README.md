@@ -1,8 +1,16 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Steps to Run the Application Locally
 
-Currently, two official plugins are available:
+1. Clone the repository:
+   git clone https://github.com/sumit-abhishek/Dashboard-for-Widgetz.git
+   
+2. Navigate to the project directory:
+   cd Dashboard-for-Widgetz
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Install the dependencies:
+   npm install
+
+4. Run the development server:
+   npm run dev
+   
